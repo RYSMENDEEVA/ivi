@@ -1,0 +1,70 @@
+.header {
+  padding: 12px 0;
+  &__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__links {
+    display: flex;
+    column-gap: 15px;
+  }
+  &__link {
+    color: rgba(255, 255, 255, 0.48);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    &:hover {
+      color: #FFFFFF;
+    }
+  }
+  &__left {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+  }
+  &__right {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+  }
+  &__btn {
+    background: #EA003D;
+    border: none;
+    padding: 0 40px;
+    border-radius: 7px;
+    color: #FFF;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16px;
+  }
+  &__sear {
+    display: flex;
+    align-items: center;
+    column-gap: 3px;
+  }
+  &__search {
+    color: rgba(255, 255, 255, 0.48);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+  &__lupa {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.48);
+    display: flex;
+    align-items: center;
+  }
+  &__notif {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.48);
+    display: flex;
+    align-items: center;
+  }
+  &__acc {
+    display: flex;
+    align-items: center;
+  }
+}

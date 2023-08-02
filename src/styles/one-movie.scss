@@ -1,0 +1,99 @@
+.one-movie {
+  padding: 80px 0;
+
+  &__row {
+    display: flex;
+    column-gap: 56px;
+  }
+
+  &__trailer {
+    width: 50%;
+  }
+
+  &__info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+
+    &-title {
+      font-size: 56px;
+      font-weight: 700;
+      text-align: center;
+    }
+
+    &-year {
+      color: rgba(255, 255, 255, 0.72);
+      font-size: 15px;
+      font-weight: 400;
+      text-align: center;
+    }
+
+    &-genres {
+      display: flex;
+      justify-content: center;
+      column-gap: 8px;
+    }
+
+    &-genre {
+      color: rgba(255, 255, 255, 0.72);
+      text-transform: capitalize;
+    }
+
+    &-persons {
+      display: flex;
+      column-gap: 33px;
+    }
+
+    &-person {
+      width: 20%;
+      text-align: center;
+      color: rgba(255, 255, 255, 0.48);
+      font-size: 13px;
+    }
+
+    &-image {
+      width: 100%;
+      height: 90px;
+      padding: 6px;
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.16);
+      img {
+        border-radius: 12px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &-desc {
+      color: rgba(255, 255, 255, 0.72);
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 22px;
+    }
+    &-ratings {
+      display: flex;
+      justify-content: center;
+      column-gap: 40px;
+
+      div {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+    }
+    &-rating {
+      width: 64px;
+      height: 64px;
+      border-radius: 8px;
+      background: #73A32F;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      span {
+        font-size: 14px;
+      }
+    }
+  }
+}

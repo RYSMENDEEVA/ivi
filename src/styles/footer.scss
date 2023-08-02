@@ -1,0 +1,125 @@
+.footer {
+  &__right {
+    display: flex;
+    column-gap: 12px;
+  }
+  &__icon {
+    border-radius: 20px;
+    border: 2px solid #1F1B2E;
+    background: #1F1B2E;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  &__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+  }
+  &__left {
+    display: flex;
+    column-gap: 15px;
+  }
+  &__btn {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+    border-radius: 8px;
+    border: 1px solid #1F1B2E;
+    background: #1F1B2E;
+    height: 40px;
+    padding: 0 15px;
+    &-text {
+      background: transparent;
+    }
+    &-desc {
+      background: transparent;
+      color: #FFF;
+      font-weight: 500;
+      line-height: 20px;
+    }
+  }
+  &__up {
+    padding: 50px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.16) ;
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+  }
+  &__column {
+    display: flex;
+    flex-direction: column;
+    &-btn {
+      color: #FFF;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 20px;
+      border-radius: 8px;
+      border: 1px solid #1F1B2E;
+      background: #1F1B2E;
+      padding: 11px 38px;
+      margin-bottom: 12px;
+    }
+    &-btn1 {
+      color: #FFF;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 500;
+      border-radius: 8px;
+      border: 1px solid #1F1B2E;
+      background: #1F1B2E;
+      padding: 11px 11px 8px 11px;
+    }
+    &-btns {
+      display: flex;
+      column-gap: 12px;
+      padding-bottom: 24px;
+    }
+    &-title {
+      padding-bottom: 8px;
+      color: #FFF;
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 20px;
+    }
+    &-item {
+       color: rgba(255, 255, 255, 0.48);
+       font-size: 15px;
+       font-weight: 400;
+       line-height: 20px;
+    }
+    &-img {
+      padding: 24px;
+      border-radius: 20px;
+      background: linear-gradient(180deg, #A869F0 0%, #834CC2 100%);
+      display: flex;
+      width: 112px;
+      margin-bottom: 24px;
+    }
+    &-item1 {
+      color: #FFF;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 16px;
+    }
+    &-item3 {
+      color: rgba(255, 255, 255, 0.48);
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 20px;
+      padding-bottom: 20px;
+    }
+    &-list {
+      display: flex;
+      flex-direction: column;
+      row-gap: 8px;
+    }
+  }
+}
+

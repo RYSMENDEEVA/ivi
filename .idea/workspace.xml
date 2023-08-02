@@ -1,8 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cb3b562-d0aa-4373-a534-8ef3e245370f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/cartoons/cartoons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/movies/movies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/oneMovie/oneMovie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/serie/series.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cartoons/Cartoons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cartoons/SelectCountry/SelectCountry.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cartoons/SelectGenre/SelectGenre.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cartoons/SelectYear/SelectYear.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Movies/Movies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Movies/SelectCountry/SelectCountry.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Movies/SelectGenre/SelectGenre.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Movies/SelectYear/SelectYear.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OneMovie/OneMovie.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Search/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Series/SelectCountry/SelectCountry.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Series/SelectGenre/SelectGenre.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Series/SelectYear/SelectYear.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Series/Series.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/movies.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/one-movie.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/instance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2SbLqIsYfBW3iv1lv5Ldqvarzo1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Card" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k\Desktop\ivi\src\components\Card" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k\Desktop\ivi\src\components\Card" />
+      <recent name="C:\Users\k\Desktop\ivi\src\pages\Series" />
+      <recent name="C:\Users\k\Desktop\ivi\src\pages\Cartoons" />
+      <recent name="C:\Users\k\Desktop\ivi\src\styles" />
+      <recent name="C:\Users\k\Desktop\ivi\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb3b562-d0aa-4373-a534-8ef3e245370f" name="Default Changelist" comment="" />
+      <created>1689410522764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689410522764</updated>
+      <workItem from="1689410524399" duration="4454000" />
+      <workItem from="1689529752415" duration="69000" />
+      <workItem from="1689757976177" duration="13524000" />
+      <workItem from="1689952317635" duration="40803000" />
+      <workItem from="1690653862740" duration="13130000" />
+      <workItem from="1690741127627" duration="2665000" />
+      <workItem from="1690981740648" duration="803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="115" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1689410921024">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="115" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1689410921024" />
+    <state width="747" height="205" key="GridCell.Tab.0.bottom" timestamp="1690982190054">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="747" height="205" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1690982190054" />
+    <state width="747" height="205" key="GridCell.Tab.0.center" timestamp="1690982190054">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="747" height="205" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1690982190054" />
+    <state width="747" height="205" key="GridCell.Tab.0.left" timestamp="1690982190054">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="747" height="205" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1690982190054" />
+    <state width="747" height="205" key="GridCell.Tab.0.right" timestamp="1690982190054">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="747" height="205" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1690982190054" />
+    <state x="0" y="0" width="602" height="801" key="dock-window-1" timestamp="1690402763346">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="0" y="0" width="602" height="801" key="dock-window-1/0.0.1536.816@0.0.1536.816" timestamp="1690402763346" />
+    <state x="41" y="188" key="run.anything.popup" timestamp="1689760425558">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="41" y="188" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1689760425558" />
   </component>
 </project>
